@@ -1,5 +1,4 @@
 package homework.ModelElements;
-import homework.Stuff.Type;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -33,17 +32,11 @@ public class Scene {
         return Model;
     }
 
-    // /**
-    // * заглушка
-    // */
-    // public Type1 method1(Type1 t) {
-    // return t;
-    // }
+   /* public Type1 method1(Type1 t) {
+    return t;
+    }
 
-    // /**
-    // * заглушка
-    // */
-    // public Type1 method1(Type1 t1, Type2 t2) {
-    // return t1;
-    // }
+    public Type1 method1(Type1 t1, Type2 t2) {
+    return t1;
+    }*/
 }

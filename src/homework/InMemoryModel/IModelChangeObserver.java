@@ -1,4 +1,5 @@
 package homework.InMemoryModel;
 
-public class IModelChangeObserver {
+public interface IModelChangeObserver {
+    public void ApplyUpdateModel();
 }

@@ -12,4 +12,5 @@ public class PoligonalModel {
         this.Poligons = new ArrayList<>();
         this.Textures = Textures;
     }
+}
 
