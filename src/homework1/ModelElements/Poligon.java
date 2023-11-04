@@ -1,6 +1,6 @@
-package homework.ModelElements;
+package homework1.ModelElements;
 
-import homework.Filling.Point3D;
+import homework1.Filling.Point3D;
 
 import java.util.ArrayList;
 import java.util.List;

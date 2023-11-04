@@ -1,7 +1,7 @@
-package homework.ModelElements;
+package homework1.ModelElements;
 
-import homework.Filling.Angle3D;
-import homework.Filling.Point3D;
+import homework1.Filling.Angle3D;
+import homework1.Filling.Point3D;
 
 public class Camera {
     public Point3D location;

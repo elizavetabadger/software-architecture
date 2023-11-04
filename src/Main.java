@@ -4,7 +4,11 @@ public class Main {
     }
 }
 
-/*homework1
+/*
+homework1
 На основе Диаграмы классов ModelElements, разработать классы:
 Model Store, PoligonalModel (Texture, Poligon), Flash, Camera, Scene
+
+homework2
+Закончить разработку паттерна Фабричный метод
  */

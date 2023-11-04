@@ -1,9 +1,9 @@
-package homework.InMemoryModel;
+package homework1.InMemoryModel;
 
-import homework.ModelElements.PoligonalModel;
-import homework.ModelElements.Scene;
-import homework.ModelElements.Flash;
-import homework.ModelElements.Camera;
+import homework1.ModelElements.PoligonalModel;
+import homework1.ModelElements.Scene;
+import homework1.ModelElements.Flash;
+import homework1.ModelElements.Camera;
 
 import java.util.ArrayList;
 public class ModelStore implements IModelChanger, IModelChangeObserver {

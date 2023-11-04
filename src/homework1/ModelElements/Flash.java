@@ -1,9 +1,8 @@
-package homework.ModelElements;
+package homework1.ModelElements;
 
-import homework.Filling.Point3D;
-import homework.Filling.Angle3D;
-import homework.Filling.Color;
-import homework.Filling.Power;
+import homework1.Filling.Point3D;
+import homework1.Filling.Angle3D;
+import homework1.Filling.Color;
 
 public class Flash {
     public Point3D location;
