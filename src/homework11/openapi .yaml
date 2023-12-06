@@ -55,7 +55,7 @@ paths:
                 $ref: '#/components/schemas/User'
         '405':
           description: Invalid input
-  
+
   /User/updateById/{userId}:
     put:
       tags:
@@ -344,7 +344,7 @@ paths:
         '405':
           description: Validation exception
 
-  /Robot/findById/robotId}:
+  /Robot/findById/{robotId}:
     get:
       tags:
         - Robot
@@ -651,7 +651,7 @@ components:
           example: 10
       xml:
         name: Robot
-  
+
   requestBodies:
 
     User:
@@ -691,7 +691,7 @@ components:
             type: array
             items:
               $ref: '#/components/schemas/Group'
-    
+
     Robot:
       description: Робот-пылесос
       content:
