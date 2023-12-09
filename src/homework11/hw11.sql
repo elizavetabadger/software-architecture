@@ -14,7 +14,5 @@ ALTER TABLE `Shedule` DROP FOREIGN KEY `Shedule_fk0`;
 
 ALTER TABLE `Shedule` DROP FOREIGN KEY `Shedule_fk1`;
 
-ALTER TABLE `Shedule` DROP FOREIGN KEY `Shedule_fk2`;
-
 ALTER TABLE `Indicators_robot` DROP FOREIGN KEY `Indicators_robot_fk0`;
 
